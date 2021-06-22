@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "peach-bank"
+    }
+  },
+  "defaultProject": "peach-bank",
+  "cli": {
+    "analytics": false
+  }
 }
