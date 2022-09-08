@@ -16,11 +16,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://www.google.com",
+					"raw": "https://www.bing.com",
 					"protocol": "https",
 					"host": [
 						"www",
-						"google",
+						"bing",
 						"com"
 					]
 				}
