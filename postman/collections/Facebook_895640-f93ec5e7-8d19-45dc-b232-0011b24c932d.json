@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "f93ec5e7-8d19-45dc-b232-0011b24c932d",
+		"name": "Facebook",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "895640-f93ec5e7-8d19-45dc-b232-0011b24c932d"
+	},
+	"item": [
+		{
+			"name": "home page",
+			"id": "49a76cc1-5240-4fc3-9286-ceb2b9fdd2e4",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.google.com",
+					"protocol": "https",
+					"host": [
+						"www",
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

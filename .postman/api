@@ -1,0 +1,14 @@
+id = 7139afde-bc3f-4076-9a0c-2f279705058a
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"f93ec5e7-8d19-45dc-b232-0011b24c932d","path":"Facebook_895640-f93ec5e7-8d19-45dc-b232-0011b24c932d.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
