@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "f93ec5e7-8d19-45dc-b232-0011b24c932d",
+		"_postman_id": "66251c3a-9821-48ee-b58f-cd3a7c38181b",
 		"name": "Facebook",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "895640-f93ec5e7-8d19-45dc-b232-0011b24c932d"
+		"_uid": "895640-66251c3a-9821-48ee-b58f-cd3a7c38181b"
 	},
 	"item": [
 		{
 			"name": "home page",
-			"id": "49a76cc1-5240-4fc3-9286-ceb2b9fdd2e4",
+			"id": "eaf39bff-8d37-436d-ad05-24adb4ab8f70",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -16,11 +16,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://www.bing.com",
+					"raw": "https://www.google.com",
 					"protocol": "https",
 					"host": [
 						"www",
-						"bing",
+						"google",
 						"com"
 					]
 				}
